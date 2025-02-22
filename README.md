@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Hosam
-- 👀 I’m interested in Mobile Application 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Mobile Application's 
+- 🌱 I’m currently learning React Native
+- 📫 How to reach me
+- send 📧: hosam.assaf22@gmail.com
+
 
 <!---
 Hosam12452/Hosam12452 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
